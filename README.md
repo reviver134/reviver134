@@ -1,4 +1,4 @@
-
+![logo](https://github.com/reviver134/reviver134/blob/main/WhatsApp%20Image%202024-03-15%20at%2012.08.10%20PM.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Jayant dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
